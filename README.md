@@ -5,7 +5,7 @@
 <a href="https://www.hackerrank.com/ng_anhhtuann"><img  alt="Twitter"  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>&nbsp;
 </p>
 
-<img align="right" width="40%" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
+<img align="right" width="40%" height="350" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
 
  ### I am a self-learning software engineer 🧑🏼‍💻 &nbsp;
 - 🔭 Looking for a better future
