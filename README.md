@@ -13,7 +13,7 @@
 - 🥅 Goals: Be better, gain more, and still alive
 - ⚡ Fact: I love giving and taking positive energy
 
- <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+ <img width="42%" src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 <b>
 
 <div align='center'>
