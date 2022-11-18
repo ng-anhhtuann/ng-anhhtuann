@@ -57,7 +57,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img width="55%" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&theme=vue-dark&hide_langs_below=1&layout=compact" />
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&theme=vue-dark&hide_langs_below=1&layout=compact" />
   <img align="center" width="12.5%" src="https://media.giphy.com/media/TdNBNvKYuOGxWuUeDm/giphy.gif" />
   <img align="center" width="30%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
