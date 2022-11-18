@@ -5,7 +5,7 @@
 <a href="https://www.hackerrank.com/ng_anhhtuann"><img  alt="Twitter"  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>&nbsp;
 </p>
 
-<img align="right" width="40%" height="350" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
+<img align="right" width="42%" height="350" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
 
  ### I am a self-learning software engineer 🧑🏼‍💻 &nbsp;
 - 🔭 Looking for a better future
@@ -57,7 +57,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&theme=vue-dark&hide_langs_below=1&layout=compact" />
+  <img width="50%" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&theme=vue-dark&hide_langs_below=1&layout=compact" />
   <img align="center" width="12.5%" src="https://media.giphy.com/media/TdNBNvKYuOGxWuUeDm/giphy.gif" />
   <img align="center" width="30%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
