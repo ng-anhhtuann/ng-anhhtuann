@@ -5,7 +5,7 @@
 <a href="https://www.hackerrank.com/ng_anhhtuann"><img  alt="Twitter"  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>&nbsp;
 </p>
 
-<img align="right" height="350" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
+<img align="right" height="320" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
 
  ### I am a self-learning software engineer 🧑🏼‍💻 &nbsp;
 - 🔭 Looking for a better future
@@ -13,7 +13,7 @@
 - 🥅 Goals: Be better, gain more, and still alive
 - ⚡ Fact: I love giving and taking positive energy
 
- <img width="42%" src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+ <img width="44%" src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 <b>
 
 <div align='center'>
