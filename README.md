@@ -62,10 +62,8 @@
 <img width="90%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ng-anhhtuann&column=-1&theme=onedark&no-frame=true&column=3&margin-w=15&margin-h=15"/>
 </div> -->
 
-
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ng-anhhtuann&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <p align="center">
   <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&theme=vue-dark&hide_langs_below=1&layout=compact" />
