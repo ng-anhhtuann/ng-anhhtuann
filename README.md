@@ -71,5 +71,5 @@
   <img align="center" width="12.5%" src="https://media.giphy.com/media/TdNBNvKYuOGxWuUeDm/giphy.gif" />
   <img align="center" width="30%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
- 
+<img src=https://komarev.com/ghpvc/?username=ng-anhhtuann alt=ng-anhhtuann/>
 </b>
