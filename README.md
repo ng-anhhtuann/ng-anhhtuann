@@ -1,11 +1,6 @@
 # 👋 
-<p align="center">
-<a href="https://www.linkedin.com/in/ng-anhtuan/"><img  alt="Linkedin"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://www.instagram.com/ng.anhhtuann/"><img  alt="Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
-<a href="https://www.hackerrank.com/ng_anhhtuann"><img  alt="Hackerrank"  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>&nbsp;
-</p>
 
-<img align="right" width="48%" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
+![](https://komarev.com/ghpvc/?username=ng-anhhtuann&color=8a24b5&label=Profile+Views)
 
  ### I am a self-learning software engineer 🧑🏼‍💻 &nbsp;
 - 🔭 Looking for a better future
@@ -13,13 +8,23 @@
 - 🥅 Goals: Be better, gain more, and still alive
 - ⚡ Fact: I love giving and taking positive energy
 
- <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
-<b>
-
-<!--
 <div align='center'>
   <h4 align="center">“Keep learning”</h4>
 </div>
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/ng-anhtuan/"><img  alt="Linkedin"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+ <a href="https://www.instagram.com/ng.anhhtuann/"><img  alt="Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+ <a href="https://www.hackerrank.com/ng_anhhtuann"><img  alt="Hackerrank"  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>&nbsp;
+</p>
+
+<p align="center">
+ <img align="center" width="40%" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
+ <img align="center" width="16.8%" src="https://media.giphy.com/media/TdNBNvKYuOGxWuUeDm/giphy.gif" />
+  <img align="center" width="40%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>
+
+
 <div align='center'>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -56,20 +61,19 @@
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
  <div>
-<br> -->
+<br> 
    
-
-<!-- <div align="center">
+<!--
+<div align="center">
 <img width="90%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ng-anhhtuann&column=-1&theme=onedark&no-frame=true&column=3&margin-w=15&margin-h=15"/>
-</div> -->
+</div> 
 
-<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ng-anhhtuann&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)  
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+[GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ng-anhhtuann&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)  
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+
+<p align="center"> 
   <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&theme=vue-dark&hide_langs_below=1&layout=compact" />
-  <img align="center" width="12.5%" src="https://media.giphy.com/media/TdNBNvKYuOGxWuUeDm/giphy.gif" />
-  <img align="center" width="30%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</p>
-<img src=https://komarev.com/ghpvc/?username=ng-anhhtuann alt=ng-anhhtuann/>
-</b>
+ </p>
+</b>-->
