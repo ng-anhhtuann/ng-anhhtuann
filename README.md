@@ -8,9 +8,7 @@
 - 🥅 Goals: Be better, gain more, and still alive
 - ⚡ Fact: I love giving and taking positive energy
 
-<div align='center'>
-  <h4 align="center">“Keep learning”</h4>
-</div>
+
 
 <p align="center">
  <a href="https://www.linkedin.com/in/ng-anhtuan/"><img  alt="Linkedin"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
@@ -24,7 +22,11 @@
   <img align="center" width="40%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
+<div align='center'>
+  <h4 align="center">“Keep learning”</h4>
+</div>
 
+<!--
 <div align='center'>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -63,7 +65,7 @@
  <div>
 <br> 
    
-<!--
+
 <div align="center">
 <img width="90%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ng-anhhtuann&column=-1&theme=onedark&no-frame=true&column=3&margin-w=15&margin-h=15"/>
 </div> 
