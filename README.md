@@ -1,6 +1,6 @@
 # 👋 
 
-![](https://komarev.com/ghpvc/?username=ng-anhhtuann&color=8a24b5&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=ng-anhhtuann&color=424242&label=Profile+Views)
 
  ### I am a self-learning software engineer 🧑🏼‍💻 &nbsp;
 - 🔭 Looking for a better future
@@ -8,12 +8,10 @@
 - 🥅 Goals: Be better, gain more, and still alive
 - ⚡ Fact: I love giving and taking positive energy
 
-
-
 <p align="center">
- <a href="https://www.linkedin.com/in/ng-anhtuan/"><img  alt="Linkedin"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
- <a href="https://www.instagram.com/ng.anhhtuann/"><img  alt="Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
- <a href="https://www.hackerrank.com/ng_anhhtuann"><img  alt="Hackerrank"  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>&nbsp;
+ <a href="https://www.linkedin.com/in/ng-anhtuan/"><img  alt="Linkedin"  src="https://img.shields.io/badge/linkedin-424242.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+ <a href="https://www.instagram.com/ng.anhhtuann/"><img  alt="Instagram"  src="https://img.shields.io/badge/instagram-424242.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+ <a href="https://www.hackerrank.com/ng_anhhtuann"><img  alt="Hackerrank"  src="https://img.shields.io/badge/-Hackerrank-424242?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>&nbsp;
 </p>
 
 <p align="center">
@@ -21,6 +19,11 @@
  <img align="center" width="16.8%" src="https://media.giphy.com/media/TdNBNvKYuOGxWuUeDm/giphy.gif" />
   <img align="center" width="40%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
+
+<div align='center'> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&show_icons=true&title_color=ffffff&icon_color=2488f2&text_color=ffffff&bg_color=424242">
+ <img width='41%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&langs_count=5&layout=compact&theme=dark" />
+</div>
 
 <div align='center'>
   <h4 align="center">“Keep learning”</h4>
@@ -71,11 +74,5 @@
 </div> 
 
 [GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ng-anhhtuann&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)  
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
-
-<p align="center"> 
-  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&theme=vue-dark&hide_langs_below=1&layout=compact" />
- </p>
+ 
 </b>-->
