@@ -20,16 +20,17 @@
   <img align="center" width="40%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
-<div align='center'> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&show_icons=true&title_color=ffffff&icon_color=2488f2&text_color=ffffff&bg_color=424242">
- <img width='41%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&langs_count=5&layout=compact&theme=dark" />
-</div>
-
 <div align='center'>
   <h4 align="center">“Keep learning”</h4>
 </div>
 
 <!--
+
+<div align='center'> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&show_icons=true&title_color=ffffff&icon_color=2488f2&text_color=ffffff&bg_color=424242">
+ <img width='41%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&langs_count=5&layout=compact&theme=dark" />
+</div>
+
 <div align='center'>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
