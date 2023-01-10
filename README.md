@@ -12,6 +12,7 @@
  <a href="https://www.linkedin.com/in/ng-anhtuan/"><img  alt="Linkedin"  src="https://img.shields.io/badge/linkedin-424242.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
  <a href="https://www.instagram.com/ng.anhhtuann/"><img  alt="Instagram"  src="https://img.shields.io/badge/instagram-424242.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
  <a href="https://www.hackerrank.com/ng_anhhtuann"><img  alt="Hackerrank"  src="https://img.shields.io/badge/-Hackerrank-424242?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>&nbsp;
+  <a href="https://leetcode.com/ng-anhhtuann/"><img  alt="Leetcode"  src="https://img.shields.io/badge/-Leetcode-424242?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>&nbsp;
 </p>
 
 <p align="center">
