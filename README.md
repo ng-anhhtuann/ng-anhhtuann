@@ -16,15 +16,21 @@
 </div>
 
 <p align="center">
- <img align="center" width="40%" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
- <img align="center" width="16.8%" src="https://media.giphy.com/media/TdNBNvKYuOGxWuUeDm/giphy.gif" />
- <img align="center" width="40%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</p>
+ <a href="https://github.com/ng-anhhtuann">
+  <img align="center" width="40%" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
+ </a>&nbsp;
+ <a href="https://github.com/ng-anhhtuann">
+  <img href="https://github.com/ng-anhhtuann" align="center" width="16.8%" alt="CAT" src="https://media.giphy.com/media/TdNBNvKYuOGxWuUeDm/giphy.gif" />
+ </a>&nbsp;
+ <a href="https://github.com/ng-anhhtuann">
+  <img href="https://github.com/ng-anhhtuann" align="center" width="40%" alt="CODE" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+ </a>&nbsp;
+ </p>
 
 
 <div align='center'> 
 
-| <a href="https://github.com/ng-anhhtuann/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&show_icons=true&theme=buefy&title_color=ffffff&icon_color=2488f2&text_color=ffffff&bg_color=424242&hide_border=true" alt="ng-anhhtuann's github stats" /></a> | <a href="https://github.com/ng-anhhtuann/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&langs_count=6&layout=compact&theme=dark&hide_border=true" /></a> |
+| <a href="https://github.com/ng-anhhtuann"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&show_icons=true&theme=buefy&title_color=ffffff&icon_color=2488f2&text_color=ffffff&bg_color=424242&hide_border=true" alt="ng-anhhtuann's github stats" /></a> | <a href="https://github.com/ng-anhhtuann"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&langs_count=6&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 </div>
