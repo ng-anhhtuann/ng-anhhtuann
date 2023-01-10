@@ -8,32 +8,35 @@
 - 🥅 Goals: Be better, gain more, and still alive
 - ⚡ Fact: I love giving and taking positive energy
 
-<p align="center">
- <a href="https://www.linkedin.com/in/ng-anhtuan/"><img  alt="Linkedin"  src="https://img.shields.io/badge/linkedin-424242.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
- <a href="https://www.instagram.com/ng.anhhtuann/"><img  alt="Instagram"  src="https://img.shields.io/badge/instagram-424242.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
- <a href="https://www.hackerrank.com/ng_anhhtuann"><img  alt="Hackerrank"  src="https://img.shields.io/badge/-Hackerrank-424242?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>&nbsp;
-  <a href="https://leetcode.com/ng-anhhtuann/"><img  alt="Leetcode"  src="https://img.shields.io/badge/-Leetcode-424242?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>&nbsp;
-</p>
+<div align="center">
+ 
+| <a href="https://www.linkedin.com/in/ng-anhtuan/"><img  alt="Linkedin"  src="https://img.shields.io/badge/linkedin-424242.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp; | <a href="https://www.instagram.com/ng.anhhtuann/"><img  alt="Instagram"  src="https://img.shields.io/badge/instagram-424242.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp; | <a href="https://www.hackerrank.com/ng_anhhtuann"><img  alt="Hackerrank"  src="https://img.shields.io/badge/-Hackerrank-424242?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>&nbsp; | <a href="https://leetcode.com/ng-anhhtuann/"><img  alt="Leetcode"  src="https://img.shields.io/badge/-Leetcode-424242?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>&nbsp; |
+| ------------- | ------------- | ------------- | ------------- |
+
+</div>
 
 <p align="center">
  <img align="center" width="40%" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
  <img align="center" width="16.8%" src="https://media.giphy.com/media/TdNBNvKYuOGxWuUeDm/giphy.gif" />
-  <img align="center" width="40%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+ <img align="center" width="40%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
+
 <div align='center'> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&show_icons=true&title_color=ffffff&icon_color=2488f2&text_color=ffffff&bg_color=424242">
- <img width='41%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&langs_count=6&layout=compact&theme=dark" />
+
+| <a href="https://github.com/ng-anhhtuann/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&show_icons=true&theme=buefy&title_color=ffffff&icon_color=2488f2&text_color=ffffff&bg_color=424242&hide_border=true" alt="ng-anhhtuann's github stats" /></a> | <a href="https://github.com/ng-anhhtuann/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&langs_count=6&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 </div>
+
 
 <div align='center'>
   <h4 align="center">“Keep learning”</h4>
 </div>
 
-
 <!--
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&show_icons=true&title_color=ffffff&icon_color=2488f2&text_color=ffffff&bg_color=424242">
+ <img width='41%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&langs_count=6&layout=compact&theme=dark" />
 
 <div align='center'>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -70,14 +73,4 @@
    <div align='center'>
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
- <div>
-<br> 
-   
-
-<div align="center">
-<img width="90%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ng-anhhtuann&column=-1&theme=onedark&no-frame=true&column=3&margin-w=15&margin-h=15"/>
-</div> 
-
-[GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ng-anhhtuann&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)  
- 
-</b>-->
+ <div> -->
