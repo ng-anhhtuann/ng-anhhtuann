@@ -29,10 +29,10 @@
 
 
 <div align='center'> 
-
-| <a href="https://github.com/ng-anhhtuann"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&title_color=ffffff&icon_color=2488f2&text_color=ffffff&bg_color=424242" alt="ng-anhhtuann's github stats" /></a> | <a href="https://github.com/ng-anhhtuann"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&langs_count=6&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=424242" /></a> |
-| ------------- | ------------- |
-
+ 
+| <a href="https://github.com/ng-anhhtuann"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ng-anhhtuann&theme=dark" alt="ng-anhhtuann's github streaks" /></a> |
+| ------------- |
+ 
 </div>
 
 
@@ -41,8 +41,9 @@
 </div>
 
 <!--
-  <img src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&show_icons=true&title_color=ffffff&icon_color=2488f2&text_color=ffffff&bg_color=424242">
- <img width='41%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&langs_count=6&layout=compact&theme=dark" />
+
+| <a href="https://github.com/ng-anhhtuann"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&title_color=ffffff&icon_color=2488f2&text_color=ffffff&bg_color=424242" alt="ng-anhhtuann's github stats" /></a> | <a href="https://github.com/ng-anhhtuann"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&langs_count=6&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=424242" /></a> |
+| ------------- | ------------- |
 
 <div align='center'>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
