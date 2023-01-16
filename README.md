@@ -30,8 +30,8 @@
 
 <div align='center'> 
  
-| <a href="https://github.com/ng-anhhtuann"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ng-anhhtuann&theme=dark" alt="ng-anhhtuann's github streaks" /></a> |
-| ------------- |
+| <a href="https://github.com/ng-anhhtuann"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ng-anhhtuann&theme=gruvbox" alt="ng-anhhtuann's github streaks" /></a> | <a href="https://github.com/ng-anhhtuann"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ng-anhhtuann&theme=gruvbox" alt="ng-anhhtuann's github summary" /></a>
+| ------------- | ------------- |
  
 </div>
 
