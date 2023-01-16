@@ -40,8 +40,12 @@
 
 <!--
 
+<div align='center'>
+
 | <a href="https://github.com/ng-anhhtuann"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&title_color=ffffff&icon_color=2488f2&text_color=ffffff&bg_color=424242" alt="ng-anhhtuann's github stats" /></a> | <a href="https://github.com/ng-anhhtuann"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&langs_count=6&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=424242" /></a> |
 | ------------- | ------------- |
+
+</div>
 
 <div align='center'>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
