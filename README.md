@@ -19,6 +19,13 @@
 
 </div>
 
+<div align='center'>
+
+| <a href="https://github.com/ng-anhhtuann"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ng-anhhtuann&title_color=ffffff&icon_color=2488f2&text_color=ffffff&bg_color=424242" alt="ng-anhhtuann's github stats" /></a> | <a href="https://github.com/ng-anhhtuann"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-anhhtuann&langs_count=6&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=424242" /></a> |
+| ------------- | ------------- |
+
+</div>
+
 <div align='center'> 
  
 | <a href="https://github.com/ng-anhhtuann"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ng-anhhtuann&theme=gruvbox" alt="ng-anhhtuann's github streaks" /></a> | <a href="https://github.com/ng-anhhtuann"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ng-anhhtuann&theme=gruvbox" alt="ng-anhhtuann's github summary" /></a>
