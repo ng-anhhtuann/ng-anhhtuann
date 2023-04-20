@@ -5,8 +5,8 @@
  ### I am a self-learning software engineer 🧑🏼‍💻 &nbsp;
 - 🔭 Looking for a better future
 - 📫 How to reach me: nguyenanhtuan1232@gmail.com <br>
-- 🥅 Goals: Be better, gain more, and still alive
-- ⚡ Fact: I love giving and taking positive energy
+- 🥅 Goals: Be better, gain more, and still alive.
+- ⚡ Critical thinking and problem solving is my strength.
 
 <div align='center'>
   <h4 align="center">“Keep learning”</h4>
