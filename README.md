@@ -6,7 +6,7 @@
 - 🔭 Looking for a better future
 - 📫 How to reach me: nguyenanhtuan1232@gmail.com <br>
 - 🥅 Goals: Be better, gain more, and still alive.
-- ⚡ Critical thinking and problem solving is my strength.
+- ⚡ Critical thinking and problem solving are my strength.
 
 <div align='center'>
   <h4 align="center">“Keep learning”</h4>
