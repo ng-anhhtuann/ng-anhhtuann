@@ -1,21 +1,21 @@
-# 👋 
+# ![](https://komarev.com/ghpvc/?username=ng-anhhtuann&color=424242&label=Profile+Views)
 
-![](https://komarev.com/ghpvc/?username=ng-anhhtuann&color=424242&label=Profile+Views)
-
+<!--
  ### I am a self-learning software engineer 🧑🏼‍💻 &nbsp;
 - 🔭 Looking for a better future
 - 📫 How to reach me: nguyenanhtuan1232@gmail.com <br>
 - 🥅 Goals: Be better, gain more, and still alive.
 - ⚡ Critical thinking and problem solving are my strength.
+-->
 
 <div align='center'>
   <h4 align="center">“Keep learning”</h4>
 </div>
 
 <div align="center">
- 
-| <a href="https://www.linkedin.com/in/ng-anhtuan/"><img  alt="Linkedin"  src="https://img.shields.io/badge/linkedin-424242.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp; | <a href="https://www.instagram.com/ng.anhhtuann/"><img  alt="Instagram"  src="https://img.shields.io/badge/instagram-424242.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp; | <a href="https://www.hackerrank.com/ng_anhhtuann"><img  alt="Hackerrank"  src="https://img.shields.io/badge/-Hackerrank-424242?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>&nbsp; | <a href="https://leetcode.com/ng-anhhtuann/"><img  alt="Leetcode"  src="https://img.shields.io/badge/-Leetcode-424242?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>&nbsp; |
-| ------------- | ------------- | ------------- | ------------- |
+
+| <a href="https://www.linkedin.com/in/ng-anhtuan/"><img  alt="Linkedin"  src="https://img.shields.io/badge/linkedin-424242.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp; | <a href="https://www.instagram.com/ng.anhhtuann/"><img  alt="Instagram"  src="https://img.shields.io/badge/instagram-424242.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp; | <a href="https://www.hackerrank.com/ng_anhhtuann"><img  alt="Hackerrank"  src="https://img.shields.io/badge/-Hackerrank-424242?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>&nbsp; | <a href="https://leetcode.com/ng-anhhtuann/"><img  alt="Leetcode"  src="https://img.shields.io/badge/-Leetcode-424242?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>&nbsp; | <a href="mailto:nguyenanhtuan1232@gmail.com"><img  alt="Gmail"  src="https://img.shields.io/badge/-Gmail-424242?style=for-the-badge&logo=Gmail&logoColor=white" /></a>&nbsp; |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 
 </div>
 
@@ -25,6 +25,8 @@
 | ------------- | ------------- |
  
 </div>
+
+<!--
 
 <p align="center">
  <a href="https://github.com/ng-anhhtuann">
@@ -37,8 +39,6 @@
   <img href="https://github.com/ng-anhhtuann" align="center" width="40%" alt="CODE" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
  </a>&nbsp;
  </p>
-
-<!--
 
 <div align='center'>
 
