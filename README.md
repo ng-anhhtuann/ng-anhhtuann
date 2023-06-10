@@ -9,7 +9,7 @@
 -->
 
 <div align='center'>
-  <h4 align="center">“Keep learning”</h4>
+  <h4 align="center">“Keep learning in silence”</h4>
 </div>
 
 <div align="center">
