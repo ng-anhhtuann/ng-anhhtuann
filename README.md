@@ -28,6 +28,8 @@
 
 <!--
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/ng-anhhtuann?theme=dark&font=Heebo&ext=heatmap)
+
 <p align="center">
  <a href="https://github.com/ng-anhhtuann">
   <img align="center" width="40%" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
