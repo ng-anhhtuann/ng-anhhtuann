@@ -5,7 +5,7 @@
 - 🔭 Looking for a better future
 - 📫 How to reach me: nguyenanhtuan1232@gmail.com <br>
 - 🥅 Goals: Be better, gain more, and still alive.
-- ⚡ Critical thinking and problem solving are my strength.
+- ⚡ Critical thinking and problem-solving are my strength.
 -->
 
 <div align='center'>
@@ -28,6 +28,7 @@
 
 <!--
 
+<img src ="https://img.shields.io/badge/backend-engineer-%232C8EBB.svg?style=for-the-badge&logo=backend-engineer&logoColor=white"/>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ng-anhhtuann?theme=dark&font=Heebo&ext=heatmap)
 
 <p align="center">
