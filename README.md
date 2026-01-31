@@ -21,8 +21,8 @@
 
 <div align='center'> 
 
-| <a href="https://github.com/ng-anhhtuann"><img align="center" src="https://streak-stats.demolab.com/?user=ng-anhhtuann&theme=slateorange&background=424242" alt="ng-anhhtuann's github streaks" /></a> | <a href="https://github.com/ng-anhhtuann"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ng-anhhtuann&theme=zenburn" alt="ng-anhhtuann's github summary" /></a>
-| ------------- | ------------- |
+| <a href="https://github.com/ng-anhhtuann"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ng-anhhtuann&theme=zenburn" alt="ng-anhhtuann's github summary" /></a>
+| ------------- |
  
 </div>
 
